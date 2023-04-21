@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/Pic">
+        <file>Scr/1676900246274.jpg</file>
+        <file>Scr/1.ico</file>
+    </qresource>
+</RCC>
